@@ -9,7 +9,7 @@
     YouTube:  https://www.youtube.com/brianlough
     Tindie:   https://www.tindie.com/stores/brianlough/
     Twitter:  https://twitter.com/witnessmenow
-    gtihub:   https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
+    github:   https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
     github:   https://github.com/bolukan
 
     ****************************************************************
